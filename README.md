@@ -2,57 +2,7 @@
 
 This document provides a curated selection of tools and references to support Digital Forensics and Incident Response (DFIR) teams. DFIR professionals are tasked with investigating security incidents, collecting forensic evidence, mitigating threats, and implementing preventive controls to enhance cybersecurity resilience.
 
-Table of Contents
-
-Adversary Simulation Tools
-
-Integrated DFIR Toolkits
-
-Essential Reading Materials
-
-Community and Research Platforms
-
-Disk Imaging Solutions
-
-Digital Evidence Collection
-
-Incident Management Systems
-
-Knowledge Repositories
-
-Specialized Linux Distributions
-
-Forensic Analysis on Linux Systems
-
-Log Forensics & Event Correlation
-
-Memory Forensics & Volatility Frameworks
-
-Memory Imaging Utilities
-
-macOS Forensics & Evidence Acquisition
-
-Comprehensive Tool Lists
-
-Additional Security Utilities
-
-Incident Response Playbooks
-
-Process Dump & Analysis
-
-Malware Sandboxing & Reverse Engineering
-
-Threat Scanning & Detection Tools
-
-Forensic Timeline Reconstruction
-
-Educational Video Resources
-
-Windows Forensics & Evidence Extraction
-
-Comprehensive IR Toolkit Repository
-
-Memory Analysis Tools
+*Memory Analysis Tools*
 
 AVML – Portable volatile memory acquisition tool for Linux.
 
@@ -84,7 +34,8 @@ VolDiff – Malware memory footprint analysis tool.
 
 WindowsSCOPE – Memory forensics and reverse engineering tool for Windows systems.
 
-Memory Imaging Tools
+
+# *Memory Imaging Tools*
 
 Belkasoft Live RAM Capturer – Free tool for extracting volatile memory, even with anti-debug protections.
 
@@ -108,7 +59,8 @@ OSX Collector – Live response collection tool derived from OSX Auditor.
 
 The ESF Playground – Tool for real-time monitoring of Apple Endpoint Security Framework (ESF) events.
 
-Other Lists
+
+# *Other Lists*
 
 Awesome Event IDs – Comprehensive list of security-related Windows Event IDs.
 
@@ -120,7 +72,8 @@ Eric Zimmerman Tools – Forensic toolset developed by Eric Zimmerman.
 
 List of various Security APIs – Aggregated list of public JSON security APIs.
 
-Other Tools
+
+# *Other Tools*
 
 Cortex – Analyzes observables like IPs, domains, and file hashes using a web interface or API.
 
